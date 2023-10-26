@@ -119,3 +119,34 @@
     border-radius: 30px;
     border: none;
 }
+
+.favourites {
+    display: inline;
+    position: relative;
+    top: -70px;
+    left: 15%;
+}
+
+.favourites {
+    display: inline-flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+
+.eleven {
+    width: 25%;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.restaurant-Image {
+    border-radius: 10px;
+}
+
+.title {
+    font-weight: bold;
+}
+
+.waitTime {
+    color: #888;
+}
