@@ -132,20 +132,26 @@
     justify-content: flex;
 }
 
+.restaurantss {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex;
+}
+
 .eleven {
-    width: 25%;
+    width: 33.33%;
     padding: 10px;
     box-sizing: border-box;
-    margin-right: -140px;
+    margin-right: -300px;
     position: relative;
     left: 20%;
 }
 
 .McDonald {
-    width: 25%;
+    width: 33.33%;
     padding: 10px;
     box-sizing: border-box;
-    margin-right: -140px;
+    margin-right: -300px;
     position: relative;
     left: 20%;
 }
